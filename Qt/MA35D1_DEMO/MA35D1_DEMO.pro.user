@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2022-12-28T17:58:46. -->
+<!-- Written by QtCreator 4.11.0, 2023-01-04T15:45:47. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -286,8 +286,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/cwhuang/Desktop/Qt_Project/MA35D1_DEMO/MA35D1_DEMO.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/cwhuang/Desktop/Qt_Project/MA35D1_DEMO/MA35D1_DEMO.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">MA35D1_DEMO2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/cwhuang/Desktop/git/MA35D1_Integrated_Demo/Qt/MA35D1_DEMO/MA35D1_DEMO.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/cwhuang/Desktop/git/MA35D1_Integrated_Demo/Qt/MA35D1_DEMO/MA35D1_DEMO.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

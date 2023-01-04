@@ -417,8 +417,6 @@ void Dialog_Cam::on_pushButton_people_cnt_clicked()
         }
         mappingfactor_width = (float)mResSize[idx_resolution_display].width()/mResSize[idx_resolution_facedetect].width();
         mappingfactor_height = (float)mResSize[idx_resolution_display].height()/mResSize[idx_resolution_facedetect].height();
-        qDebug()<<"mappingfactor_width"<<mappingfactor_width;
-        qDebug()<<"mappingfactor_height"<<mappingfactor_height;
         set.setResolution(mResSize[idx_resolution_display]);
         camera->setViewfinderSettings(set);
         ui->comboBox_resolution->setCurrentIndex(idx_resolution_display);
